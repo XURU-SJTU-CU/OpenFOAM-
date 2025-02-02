@@ -1,4 +1,4 @@
-# OpenFOAM-
+# OpenFOAM-Post Processing
 
 ## Some basics for postProcessing of OpenFOAM
 the command line to excute the functions included in controlDict file
